@@ -1,8 +1,12 @@
 # SprintBoard
 #Bu bir MANİSA CELAL BAYAR ÜNİVERSİTESİ HASAN FERDİ TURGUTLU TEKNOLOJİ FAKÜLTESİ
+
 #YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ projesidir
+
 #YZM 2122 Yazılım Yapımı Dersi ÖDEVİ(MAYIS-2018)
+
 #Danışman : Yrd. Doç. Dr. Emin BORANDAĞ
+
 #Hazırlayan: Orçun ÖZDİL 
 
 Fonksiyonlar
